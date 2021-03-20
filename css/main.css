@@ -11,24 +11,27 @@ html {
   color: #555;
 }
 
- /*font-family: 'Crimson Text', serif; */
+/*font-family: 'Crimson Text', serif; */
+
 
 article h1 {
-  font-size: 1rem;
   font-weight: normal;
+  font-size: 1.5rem;
   color: #222;
   margin-bottom: .045rem;
   margin-left: 0;
-  margin-top: 0;
 }
 
 article header p {
   font-style: italic;
-  font-size: 1rem;
-  margin-top: 0;
   padding-bottom: 1rem;
   border-bottom: 1px solid #999;
   border-color: #999;
+}
+
+article header {
+  font-size: 4rem;
+  margin-top: 0;
 }
 
 body {
