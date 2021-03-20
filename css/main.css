@@ -49,3 +49,9 @@ article ol {
   margin: 0;
   padding: 0 1rem;
 }
+
+article ol + p {
+  margin-top: 0;
+  padding: 1.3rem 0;
+  border-bottom: 1px solid #999;
+}
