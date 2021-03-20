@@ -18,6 +18,7 @@ h1 {
   color: #222;
   margin-bottom: .045rem;
   margin-left: 0;
+  font-weight: bold;
 }
 
 h1 + p {
@@ -31,4 +32,9 @@ h1 + p {
 body {
   padding: 0 1rem;
   margin: 0 0 1.3rem 0;
+}
+
+ol {
+  margin: 0;
+  padding: 0 1rem;
 }
