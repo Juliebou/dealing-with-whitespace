@@ -11,7 +11,7 @@ html {
   color: #222;
 }
 
-/*font-family: 'Crimson Text', serif; */
+/* font-family: 'Crimson Text', serif; */
 
 article + header {
   margin-top: 0;
@@ -44,11 +44,12 @@ article header p {
 
 article {
   padding: 0 1rem;
-  margin: 0 0 1.3rem 0;
+  margin: 0;
 }
 
 body {
-  margin: 0 0 1.3rem 0;
+  /* margin: 0 0 1.3rem 0; */
+  margin: 0;
   line-height: 1.3;
 }
 
